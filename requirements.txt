@@ -1,0 +1,8 @@
+azure-ai-projects>=2.0.0
+azure-identity
+requests
+python-dotenv
+pydantic
+fastapi
+uvicorn
+pytest
